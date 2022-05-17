@@ -24,7 +24,7 @@ body {
   display: inline-block;
   height: 40px;
   width: 40 px;
-  transition: ease-out 0.2s;
+  transition: ease-out 0.3s;
 }
 .top:hover {
   transform: scale(1.2);
